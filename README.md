@@ -12,5 +12,5 @@ This is a Python script that checks which accounts you follow that don’t follo
 ```bash
 python main.py
 ```
--Instagram's data formats can change over time; this script is prone to breaking at any time. 
--However, if you can use GitHub then you probably know how to code a new one.
+- Instagram's data formats can change over time; this script is prone to breaking at any time. 
+- However, if you can use GitHub then you probably know how to code a new one.
